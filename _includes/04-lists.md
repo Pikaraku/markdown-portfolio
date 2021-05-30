@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Testing List 
+- Pokemon
+- Witcher 3
+- Dota 2
